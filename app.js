@@ -4,9 +4,9 @@ const question = document.querySelector(".question");
 
 const gif = document.querySelector(".gif");
 
-const yesBtn = document.querySelector(".yes-btn");
+const iya dongBtn = document.querySelector(".Iya-dong-btn");
 
-const noBtn = document.querySelector(".no-btn");
+const ga bisaBtn = document.querySelector(".nga-dong-btn");
 
 yesBtn.addEventListener("click", () => {
 
